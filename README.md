@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Boutaghratine</h1>
-<h3 align="center">A passionate data and machine learning engineering student from Morocco, dedicated to expanding the limits of what can be achieved with data. As a second-year engineering student in Data Science at the prestigious National Institute of Statistics and Applied Economics (INSEA), I am immersed in a rigorous academic environment that fuels my curiosity and hones my analytical skills. With a keen interest in discovering hidden patterns and insights through machine learning, I strive to transform complex datasets into valuable information that drives decision-making and innovation.</h3>
+<h3 align="center">A passionate data and machine learning engineering student from Morocco, dedicated to expanding the limits of what can be achieved with data. As a final year engineering student in Data Science at the prestigious National Institute of Statistics and Applied Economics (INSEA), I am immersed in a rigorous academic environment that fuels my curiosity and hones my analytical skills. With a keen interest in discovering hidden patterns and insights through machine learning, I strive to transform complex datasets into valuable information that drives decision-making and innovation.</h3>
 
 - 🔭 I’m currently working on **Plant Disease Detection Using Convolutional Neural Networks (CNN)**
 
