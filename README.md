@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohamed Boutaghratine</h1>
 <h3 align="center">
-A passionate Data & Machine Learning Engineering student from Morocco, specializing in Generative AI and NLP. 
+A passionate Data Science & Machine Learning Enginee from Morocco, specializing in Generative AI and NLP. 
 Currently working on cutting-edge AI solutions to optimize banking processes and enhance decision-making. 
-Final year student at the prestigious National Institute of Statistics and Applied Economics (INSEA).
+graduated from the prestigious National Institute of Statistics and Applied Economics (INSEA).
 </h3>
 
 🚀 **Current Work & Research**  
